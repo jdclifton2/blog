@@ -40,6 +40,22 @@
   
 
   
+      ,"page3": {
+          "title": "Research",
+          "content": "Research Interests: Ramsey Theory, Hypergraphs, Extremal Combinatorics .",
+          "url": "https://jdclifton2.github.io/blog/research/",
+          "relUrl": "/research/",
+          "date": ""
+      }
+      
+  
+
+  
+  
+
+  
+
+  
   
 
   
@@ -48,18 +64,13 @@
   
 
   
-
-  
   
 
   
   
 
   
-  
-
-  
-      ,"page10": {
+      ,"page11": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://jdclifton2.github.io/blog/robots.txt",
