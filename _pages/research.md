@@ -8,7 +8,7 @@ permalink: /research/
 
 Research Publications (* indicates paper is under review for publication):
 
-<ol>
+<ul>
 
 <li>
   
@@ -31,4 +31,4 @@ Preprint: https://arxiv.org/pdf/2003.00035.pdf </li>
 
 Focused on further developing Ramsey theory for trees, stars, and complete hypergraphs. </li>
 
-</ol> 
+</ul> 
