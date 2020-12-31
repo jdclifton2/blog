@@ -10,12 +10,16 @@ Research Publications (* indicates paper is under review for publication):
 
 <ol>
 
-<li>*Weakend Weak Schur Numbers* *
+<li>
+  
+  *Weakend Weak Schur Numbers* *
 
 A generalization of Schur numbers,analogous to the weakened generalization of Ramsey numbers. </li>
 
 
-<li> *Monochromatic Subhypergraphs in Stochastic Processes on Hypergraphs* *
+<li> 
+  
+  *Monochromatic Subhypergraphs in Stochastic Processes on Hypergraphs* *
 
 A recursive formula for the number of ways to color j vertices blue in an r-uniform hyperpath of size n while avoiding a blue monochromatic sub-hyperpath of length k.
 
