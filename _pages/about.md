@@ -14,4 +14,4 @@ Many of us come from circumstances that make learning a challenge. Despite this 
 
 I hope you have enjoyed getting to know me and I hope you find my blog to be useful and insightful. 
 
-Machs gut!
+Auf Wiedersehen!
