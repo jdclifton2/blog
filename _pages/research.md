@@ -4,11 +4,11 @@ title: Research
 permalink: /research/
 ---
 
-Research Interests:  Ramsey Theory, Hypergraphs, Extremal Combinatorics
+*Research Interests*:  Ramsey Theory, Hypergraphs, Extremal Combinatorics
 
 Research Publications (* indicates paper is under review for publication):
 
-Weakend Weak Schur Numbers*
+*Weakend Weak Schur Numbers* *
 
 A generalization of Schur numbers,analogous to the weakened generalization of Ramsey numbers. 
 
