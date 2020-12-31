@@ -5,6 +5,7 @@ permalink: /research/
 ---
 
 *Research Interests*:  Ramsey Theory, Hypergraphs, Extremal Combinatorics
+
 Research Publications (* indicates paper is under review for publication):
  
 + *Weakend Weak Schur Numbers* *  
