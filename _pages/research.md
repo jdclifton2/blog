@@ -20,8 +20,8 @@ Research Publications (* indicates paper is under review for publication):
 <li> Preprint can be found [here](https://arxiv.org/pdf/2003.00035.pdf). </li>
 </ul>
 </li>
-<ul>
 <li> *Hypergraph Ramsey Numbers Involving Trees, Stars, and Complete Hypergraphs* *
+<ul>
 <li> Focused on further developing Ramsey theory for trees, stars, and complete hypergraphs. </li>
 </ul>
 </li>
