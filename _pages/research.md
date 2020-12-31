@@ -14,7 +14,7 @@ Research Publications (* indicates paper is under review for publication):
   
   *Weakend Weak Schur Numbers* *
 
-> A generalization of Schur numbers,analogous to the weakened generalization of Ramsey numbers. </li>
+> A generalization of Schur numbers, analogous to the weakened generalization of Ramsey numbers. </li>
 
 
 <li> 
