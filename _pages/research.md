@@ -23,7 +23,7 @@ Research Publications (* indicates paper is under review for publication):
 
 > A recursive formula for the number of ways to color j vertices blue in an r-uniform hyperpath of size n while avoiding a blue monochromatic sub-hyperpath of length k.
 
-Preprint: https://arxiv.org/pdf/2003.00035.pdf </li>
+Preprint can be found [here](https://arxiv.org/pdf/2003.00035.pdf) </li>
 
 <li>
   
